@@ -1,5 +1,5 @@
 package jp.mmism.android.appdailylauncherwidget;
 
-public class NewDebugTest {
+public class Test2Git {
 
 }
